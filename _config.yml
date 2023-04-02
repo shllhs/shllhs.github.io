@@ -103,5 +103,5 @@ theme: particlex
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: https://github.com/shllhs/shllhs.github.io.git
+  repo: https://github.com/shllhs/shllhs.github.io
   branch: new_page
